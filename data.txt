@@ -1,3 +1,4 @@
 date: 15.12.2021
 practice: 2nd
-successful changes: git add . | git commit -m" " | git push origin master 
+successful changes: git add . | git commit -m" " | git push origin master
+description: Having created a remote repository in Github from the top right corner, and having init a local repo, add a local repo, commit a local repo and push it, when I make new changes, I have to do again the three commands as described above
